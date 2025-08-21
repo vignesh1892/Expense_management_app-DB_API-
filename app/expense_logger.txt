@@ -109,3 +109,24 @@
 2025-08-21 16:11:31,404 - [INFO] - Fetched 6 expenses
 2025-08-21 16:11:31,422 - [INFO] - Fetched 6 expenses
 2025-08-21 16:11:43,668 - [INFO] - User exited the program
+2025-08-21 18:24:56,069 - [INFO] - Fetching all categories
+2025-08-21 18:24:56,070 - [INFO] - Fetching all expenses
+2025-08-21 18:24:56,423 - [INFO] - Database connection established
+2025-08-21 18:24:56,449 - [INFO] - Database connection established
+2025-08-21 18:24:56,487 - [INFO] - Fetched 5 categories
+2025-08-21 18:24:56,528 - [INFO] - Fetched 6 expenses
+2025-08-21 18:25:22,382 - [INFO] - Adding expense: description='Test2' amount=15588888.0 date='2025-08-21' category_id=5
+2025-08-21 18:25:22,562 - [INFO] - Database connection established
+2025-08-21 18:25:22,654 - [INFO] - Inserted expense: Test2, 15588888.0, 2025-08-21, category=5
+2025-08-21 18:25:22,664 - [INFO] - Fetching all categories
+2025-08-21 18:25:22,664 - [INFO] - Fetching all expenses
+2025-08-21 18:25:22,816 - [INFO] - Database connection established
+2025-08-21 18:25:22,821 - [INFO] - Database connection established
+2025-08-21 18:25:22,871 - [INFO] - Fetched 5 categories
+2025-08-21 18:25:22,885 - [INFO] - Fetched 7 expenses
+2025-08-21 18:25:35,600 - [INFO] - Deleting expense with ID: 9
+2025-08-21 18:25:35,759 - [INFO] - Database connection established
+2025-08-21 18:25:35,850 - [INFO] - Deleted expense ID=9
+2025-08-21 18:25:38,196 - [INFO] - Fetching all expenses
+2025-08-21 18:25:38,340 - [INFO] - Database connection established
+2025-08-21 18:25:38,409 - [INFO] - Fetched 6 expenses
